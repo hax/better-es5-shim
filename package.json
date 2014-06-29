@@ -1,0 +1,26 @@
+{
+  "name": "better-es5-shim",
+  "version": "0.0.1",
+  "description": "Another shim solution of ECMAScript 5 standard for legacy ES3 engines",
+  "main": "object/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hax/better-es5-shim.git"
+  },
+  "keywords": [
+    "es5",
+    "shim"
+  ],
+  "author": "hax <johnhax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hax/better-es5-shim/issues"
+  },
+  "homepage": "https://github.com/hax/better-es5-shim"
+}
