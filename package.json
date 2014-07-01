@@ -26,8 +26,8 @@
   "testling": {
     "files": "test/*.js",
     "browsers": [
-      "ie/6..8",
-      "safari/1.."
+      "ie/5..8",
+      "safari/2..5"
     ]
   },
   "devDependencies": {
