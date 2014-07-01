@@ -27,7 +27,9 @@
     "files": "test/*.js",
     "browsers": [
       "ie/6..8",
-      "safari/2..5"
+      "chrome/4..10",
+      "safari/4..5",
+      "firefox/3..9"
     ]
   },
   "devDependencies": {
