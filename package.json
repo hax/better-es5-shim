@@ -28,7 +28,7 @@
     "browsers": [
       "ie/6..8",
       "chrome/4..10",
-      "safari/4..5",
+      "safari/4..6",
       "firefox/3..9"
     ]
   },
