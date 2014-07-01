@@ -22,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/hax/better-es5-shim/issues"
   },
-  "homepage": "https://github.com/hax/better-es5-shim"
+  "homepage": "https://github.com/hax/better-es5-shim",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/6..8",
+      "safari/1.."
+    ]
+  },
+  "devDependencies": {
+    "tape": "^2.13.3"
+  }
 }
